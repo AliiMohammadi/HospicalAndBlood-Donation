@@ -1,0 +1,8 @@
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\bin\Debug\HospitalAndIllsProblem.exe.config
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\bin\Debug\HospitalAndIllsProblem.exe
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\bin\Debug\HospitalAndIllsProblem.pdb
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\obj\Debug\HospitalAndIllsProblem.csproj.AssemblyReference.cache
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\obj\Debug\HospitalAndIllsProblem.csproj.SuggestedBindingRedirects.cache
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\obj\Debug\HospitalAndIllsProblem.csproj.CoreCompileInputs.cache
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\obj\Debug\HospitalAndIllsProblem.exe
+D:\Developing\Application Projects\HospitalAndIllsProblem\HospitalAndIllsProblem\obj\Debug\HospitalAndIllsProblem.pdb
